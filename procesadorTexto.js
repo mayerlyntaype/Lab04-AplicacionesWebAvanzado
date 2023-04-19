@@ -1,4 +1,3 @@
-// textProcessor.js
 
 exports.dividirPalabras = function(texto) {
     return texto.split(" ");
